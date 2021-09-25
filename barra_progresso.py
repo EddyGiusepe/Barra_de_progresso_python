@@ -1,8 +1,4 @@
-"""
-Data Scientist Jr.: Dr. Eddy Giusepe Chirinos Isidro
-
-"""
-
+import requests
 from tqdm import tqdm  # tqdm significa progresso
 import time
 
